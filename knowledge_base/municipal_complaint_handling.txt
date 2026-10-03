@@ -1,0 +1,48 @@
+CIVICPULSE MUNICIPAL COMPLAINT HANDLING POLICY
+
+Document Type:
+Project Demonstration Policy
+
+Purpose:
+This policy defines the standard process for receiving, understanding, categorizing, routing, monitoring, resolving and closing municipal citizen complaints.
+
+Complaint Lifecycle:
+
+1. SUBMITTED
+A complaint is submitted by a citizen through the CivicPulse portal or chatbot.
+
+2. UNDER_REVIEW
+The complaint is being analyzed by the AI system or municipal staff.
+
+3. ASSIGNED
+The complaint has been assigned to the appropriate municipal department and officer.
+
+4. IN_PROGRESS
+The assigned officer or work team has started working on the complaint.
+
+5. PENDING_INFORMATION
+Additional information is required from the citizen or another municipal department.
+
+6. RESOLVED
+The assigned team has completed the corrective action.
+
+7. CITIZEN_CONFIRMED
+The citizen has confirmed that the issue has been resolved.
+
+8. CITIZEN_REJECTED
+The citizen does not agree that the issue has been resolved.
+
+9. REOPENED
+A previously resolved complaint has been reopened because the issue remains unresolved.
+
+10. CLOSED
+The complaint has been successfully completed and closed.
+
+AI Processing:
+The AI system may classify complaints, identify possible duplicates, recommend departments, determine severity and retrieve relevant policy information.
+
+Human Oversight:
+AI recommendations involving critical public safety matters, uncertain classification or conflicting information should be reviewed by an authorized municipal officer.
+
+Duplicate Complaints:
+When multiple citizens report the same physical issue, the system may link the newer complaint to an existing complaint rather than creating unnecessary duplicate work orders.

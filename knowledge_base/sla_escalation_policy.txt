@@ -1,0 +1,77 @@
+CIVICPULSE SLA AND ESCALATION POLICY
+
+Document Type:
+Project Demonstration Policy
+
+Purpose:
+This document defines indicative service-level targets and escalation procedures for municipal complaints.
+
+SLA TARGETS:
+
+Pothole:
+HIGH priority — 48 hours
+
+Road Damage:
+MEDIUM priority — 72 hours
+
+Water Leakage:
+HIGH priority — 12 hours
+
+No Water Supply:
+HIGH priority — 12 hours
+
+Garbage Not Collected:
+MEDIUM priority — 24 hours
+
+Overflowing Garbage Bin:
+MEDIUM priority — 24 hours
+
+Illegal Dumping:
+HIGH priority — 24 hours
+
+Streetlight Not Working:
+MEDIUM priority — 48 hours
+
+Drainage Blockage:
+HIGH priority — 24 hours
+
+Sewage Overflow:
+CRITICAL priority — 4 hours
+
+Public Health:
+HIGH priority — 24 hours
+
+Public Safety:
+CRITICAL priority — 4 hours
+
+Park Maintenance:
+LOW priority — 72 hours
+
+Broken Footpath:
+MEDIUM priority — 72 hours
+
+Damaged Road Sign:
+MEDIUM priority — 48 hours
+
+ESCALATION LEVELS:
+
+Level 0:
+Automated assignment and monitoring.
+
+Level 1:
+Department-level officer escalation when the SLA is approaching or an operational issue occurs.
+
+Level 2:
+Ward-level escalation when the complaint is overdue or remains unresolved.
+
+Level 3:
+Zone-level escalation for continued SLA breaches.
+
+Level 4:
+Municipal authority escalation for critical or prolonged unresolved complaints.
+
+Critical public safety complaints should receive immediate attention.
+
+The SLA deadline is calculated from the complaint creation time and the applicable SLA rule.
+
+The deterministic SLA configuration in the database is the system of record for deadline calculation. The RAG agent should not override database SLA values.

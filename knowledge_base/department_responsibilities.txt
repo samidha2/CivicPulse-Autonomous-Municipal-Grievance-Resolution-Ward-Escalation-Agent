@@ -1,0 +1,33 @@
+CIVICPULSE DEPARTMENT RESPONSIBILITIES
+
+Document Type:
+Project Demonstration Policy
+
+ROADS AND INFRASTRUCTURE:
+Responsible for potholes, damaged roads, broken footpaths and damaged road signs.
+
+WATER SUPPLY:
+Responsible for water leakage, no water supply and water distribution-related complaints.
+
+SOLID WASTE MANAGEMENT:
+Responsible for garbage not collected, overflowing garbage bins and illegal dumping.
+
+STREET LIGHTING:
+Responsible for streetlights that are damaged or not functioning.
+
+DRAINAGE AND SEWERAGE:
+Responsible for drainage blockage and sewage overflow.
+
+PUBLIC HEALTH:
+Responsible for complaints involving sanitation, public health hazards and health-related municipal concerns.
+
+PARKS AND PUBLIC SPACES:
+Responsible for park maintenance and public-space maintenance.
+
+TRAFFIC AND PUBLIC SAFETY:
+Responsible for public safety incidents and traffic-related municipal safety concerns.
+
+Routing:
+The AI system should recommend a department based on the complaint category and description.
+
+Department assignment should be validated against the configured department-category mapping before creating operational work orders.

@@ -1,0 +1,30 @@
+CIVICPULSE CITIZEN COMMUNICATION POLICY
+
+Document Type:
+Project Demonstration Policy
+
+Purpose:
+Citizens should receive clear and understandable information about the progress of their complaints.
+
+Complaint Submission:
+After successful submission, the citizen should receive the complaint number and acknowledgement.
+
+Assignment:
+The citizen may be informed when the complaint has been assigned to the responsible department.
+
+Work Progress:
+The citizen should receive relevant status updates when the complaint moves into active resolution.
+
+Resolution:
+When a complaint is marked resolved, the citizen should receive a resolution notification.
+
+Feedback:
+Citizens should be given an opportunity to confirm whether the issue has actually been resolved.
+
+Rejected Resolution:
+If the citizen rejects the resolution, the complaint may be reopened for further investigation.
+
+Duplicate Complaint:
+If a complaint is identified as a potential duplicate, the citizen should receive an explanation that the issue has been linked to an existing complaint where appropriate.
+
+Communication should avoid exposing unnecessary internal information, personal data or confidential operational details.

@@ -1,0 +1,38 @@
+CIVICPULSE WORK ORDER AND RESOLUTION POLICY
+
+Document Type:
+Project Demonstration Policy
+
+Purpose:
+Work orders translate approved municipal complaints into operational tasks.
+
+Work Order Creation:
+A work order should normally be created after the complaint has been classified, validated and assigned to the appropriate department and officer.
+
+Work Order Information:
+A work order should contain:
+- Work order number
+- Complaint reference
+- Assigned officer or team
+- Description of the required work
+- Current work order status
+- Creation timestamp
+- Completion timestamp where applicable
+
+Work Order Status:
+ASSIGNED
+IN_PROGRESS
+COMPLETED
+CANCELLED
+
+Duplicate Complaints:
+A duplicate complaint should normally be linked to an existing master complaint instead of creating an unnecessary duplicate work order.
+
+Resolution:
+The assigned officer or team should record the action taken before the complaint is marked RESOLVED.
+
+Citizen Confirmation:
+Where citizen confirmation is required, the complaint should remain open until the citizen confirms resolution or the authorized municipal process closes it.
+
+Critical Issues:
+Critical complaints should receive expedited operational handling and appropriate escalation.

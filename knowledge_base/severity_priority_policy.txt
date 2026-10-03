@@ -1,0 +1,46 @@
+CIVICPULSE SEVERITY AND PRIORITY POLICY
+
+Document Type:
+Project Demonstration Policy
+
+Severity indicates the potential impact and urgency of a complaint.
+
+LOW:
+Limited impact with minimal immediate risk.
+
+MEDIUM:
+Moderate impact affecting citizens or municipal services.
+
+HIGH:
+Significant impact affecting multiple citizens, essential services or public infrastructure.
+
+CRITICAL:
+Immediate risk to public safety, health or essential services.
+
+Priority Guidelines:
+
+LOW priority:
+Routine maintenance and low-impact issues.
+
+MEDIUM priority:
+Operational issues requiring timely municipal action.
+
+HIGH priority:
+Issues affecting essential services, significant infrastructure or multiple citizens.
+
+CRITICAL priority:
+Public safety emergencies, sewage overflow and situations involving immediate health or safety risks.
+
+Examples:
+
+A small park maintenance issue may be LOW.
+
+A broken footpath may be MEDIUM.
+
+A major water leakage affecting residents may be HIGH.
+
+A sewage overflow creating an immediate health hazard may be CRITICAL.
+
+A public safety complaint involving immediate danger should be treated as CRITICAL.
+
+AI-generated severity and priority are recommendations and should be validated against configured municipal rules.
